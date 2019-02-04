@@ -1,0 +1,35 @@
+body {
+  background-image:url(https://inkscapetutorials.files.wordpress.com/2014/11/hills.jpg?w=616);
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: verdana;
+  font-size: 50px;
+  color: aqua;
+  border: 3px solid;
+  text-align: center;
+  outline-style: solid;
+  outline-color: blue;
+}
+
+p {
+  font-family: cursive;
+}
+ul {
+  font-family: cursive;
+  font-size: 20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  padding: 20px;
+}
+
+li {
+  display: inline;
+}
+li a:hover {
+  background-color: red;
+}
